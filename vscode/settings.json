@@ -1,0 +1,22 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "redhat.telemetry.enabled": false,
+  "editor.guides.bracketPairs": "active",
+  "editor.minimap.enabled": false,
+  "files.exclude": {
+    "**/.git": false
+  },
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true
+}

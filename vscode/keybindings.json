@@ -1,0 +1,33 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "ctrl+oem_7",
+    "command": "workbench.action.terminal.toggleTerminal",
+    "when": "terminal.active"
+  },
+  {
+    "key": "ctrl+oem_3",
+    "command": "-workbench.action.terminal.toggleTerminal",
+    "when": "terminal.active"
+  },
+  {
+    "key": "ctrl+k",
+    "command": "git.commit"
+  },
+  {
+    "key": "ctrl+d",
+    "command": "editor.action.duplicateSelection"
+  },
+  {
+    "key": "ctrl+oem_1",
+    "command": "workbench.action.showCommands"
+  },
+  {
+    "key": "f1",
+    "command": "-workbench.action.showCommands"
+  },
+  {
+    "key": "ctrl+shift+alt+p",
+    "command": "git.sync"
+  }
+]
